@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning [React](https://react.dev/), [VueJS](https://vuejs.org/)
 - 👯 I’m looking to collaborate on [Rails](https://github.com/topics/rails)
 - 💬 Ask me about 🇯🇵🇮🇳🚴
-- 📫 How to reach me: [Twitter](https://twitter.com/padmanabhg1) | [Blog](https://padmanabhg.com)
+- 📫 How to reach me: [X](https://twitter.com/padmanabhg1) | [Blog](https://padmanabhg.com)
